@@ -1,0 +1,6 @@
+#page-container {
+    width: 760px;
+    margin: auto;
+    background-color: rgb(128, 209, 247);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
