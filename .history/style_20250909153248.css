@@ -21,7 +21,7 @@
     font-family: Tahoma, Arial, Helvetica, Sans-serif; 
 }
 #main-nav a{ 
-    color: #135899; 
+    color: #c9c9c9; 
     text-decoration: none; 
 } 
 #main-nav a:hover{color: #db6d16;}
@@ -29,13 +29,13 @@
     height: 70px; 
     font-family: Tahoma, Arial, Helvetica, Sans-serif; 
     font-size: 10px; 
-    color: #135899; 
-    border-top: 1px solid #135899; 
+    color: #c9c9c9; 
+    border-top: 1px solid #efefef; 
     padding: 13px 25px; 
     line-height: 18px; 
 }
 #footer a { 
-    color: #135899; 
+    color: #c9c9c9; 
     text-decoration: none; 
 } 
 #footer a:hover { 
